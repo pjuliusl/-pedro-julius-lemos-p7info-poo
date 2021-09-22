@@ -1,7 +1,7 @@
 text = 0
 separator = "-"
 while True:
-    frase = input("Digite a frase desejada(Digite 0 caso deseje se retirar.): ").split()
+    frase = input("Digite a frase desejada: ").split()
     tamanho = []
     
     for i in frase:
